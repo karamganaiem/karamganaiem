@@ -11,9 +11,9 @@ I'm passionate about programming I and love working on side projects to expand m
       <img alt="linkedin" title="Connect with me on LinkedIn" src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" width="120px" />
    </a>
    
-   <!-- GitHub Follow -->
-   <a href="https://github.com/karamganaiem?tab=followers" style="display: inline-block;">
-      <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/karamganaiem?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+<!-- GitHub Follow -->
+<a href="https://github.com/karamganaiem" style="display: inline-block;">
+   <img alt="Follow me on GitHub" title="Follow me on GitHub" src="https://img.shields.io/static/v1?label=Follow&message=on%20GitHub&color=236ad3&style=for-the-badge&logo=github&logoColor=white"/>
    </a> 
 </p>
 
