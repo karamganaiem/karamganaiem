@@ -3,7 +3,7 @@
 **`Digital Craftsman (Developer)`**
 
 Karam Ganaiem, a second-year Computer Science student at Bar-Ilan University. 
-I'm passionate about programming I and love working on side projects to expand my skills. Whether it's tackling complex coding challenges or creating real-world applications, I'm always eager to learn and build. My projects reflect my dedication to solving problems and understanding hard concepts through code and continuously improving my craft.
+I love working on side projects to expand my skills. Whether it's tackling complex coding challenges or creating real-world applications, I'm always eager to learn and build. My projects reflect my dedication to solving problems and understanding hard concepts through code and continuously improving my craft.
 
 <p align="left">
    <!-- LinkedIn with full text -->
